@@ -15,4 +15,5 @@
     { "id": 1, "body": "react meetup" },
     { "id": 2, "body": "redux meetup" }, 
     { "id": 3, "body": "node meetup" }
+  ]
 }
